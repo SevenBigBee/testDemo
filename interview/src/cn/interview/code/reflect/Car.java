@@ -1,6 +1,7 @@
 package cn.interview.code.reflect;
 
 public class Car {
+	//git eidt test 
 	private String brand;
 	private String color;
 	private int maxSpeed;
